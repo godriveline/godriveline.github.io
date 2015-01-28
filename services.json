@@ -7,7 +7,7 @@
                     "name":"Bill Payments",
                     "brief":"Your GoDriveline Manager will collect all your House Bills - Internet, Telephone, Electricity, Water, Fines etc and Pay it up.",
                     "description":"Pay all your House Bills with your GoDriveline Home Manager.\n\n  We will come to your house and pay your Outstanding bills if any. No need of using any credit cards anymore, you can always trust your GoDriveline manager to Pay your entire bills. It's free with the Monthly GoDriveline subscription",
-                    "price":"Covered with GoDriveline subscription",
+                    "price":"10/Bill",
                     "tasks":"Bill Payments",
                     "time":"10AM-8PM",
                     "image":"https://lh3.googleusercontent.com/-CO_2E2o2gSs/VMEglx98BwI/AAAAAAAASlw/dzVp4yWWKVI/w400-no/electricity_bill.jpg"
@@ -16,13 +16,13 @@
                   "name":"Milk & Dairy Products Delivery Service",
                   "brief":"GoDriveline offers Milk & Dairy Products Delivery.",
                   "description":"GoDriveline provides Home Delivery of fresh organic Milk Directly from farm. 100% Purity Gauranteed.\n\n The pricing of Milk depends on - % of Fat in the milk, the flavour of the milk, cow/buffalo milk, etc. Before you buy milk Delivery service, tell us your purpose and the use of the milk so we suggest the best Dairy products for things which you are making.",
-                  "price":"40-100/Liter",
+                  "price":"40 to 60/Litre",
                   "tasks":"Milk Dairy Delivery",
                   "time":"10AM-8PM",
                   "image":"https://lh5.googleusercontent.com/--8X-uxZGGm0/VMEroDkqAzI/AAAAAAAASns/Iqbyzn0RZVY/w400-no/Milk%2BService.jpg"
                 },
                 {
-                  "name":"Cleaning Service",
+                  "name":"Book Cleaning Service",
                   "brief":"Complete Home Cleaning Services",
                   "description":"GoDriveline provides Home Cleaning services. Cleaning entire House includes washrooms, bathrooms and kitchen. The pricing depends on the size of your house or office.\n\n Our Manager will manage the entire process so you don't have to worry anything just relax and the work is done you don't have todo anything all the work is perfect managed by our manager. ",
                   "price":"100+/Hour",
@@ -31,7 +31,7 @@
                   "image":"https://lh6.googleusercontent.com/-FUrwZo403nM/VMEP49yKAxI/AAAAAAAASkc/itEvCGbTgpU/w400-no/home.jpg"
                 },
                 {
-                  "name":"Pickup and Delivery Service",
+                  "name":"Any Pickup and Delivery Service",
                   "brief":"",
                   "description":"Pickup, Delivery Service and Courier Service. Next time you want to send anything from one place to another we will do at the lowest cost.",
                   "price":"100+/Hour",
@@ -40,7 +40,7 @@
                   "image":"https://lh4.googleusercontent.com/-kAMacMt84Eg/VMiih4APGsI/AAAAAAAAS5U/CXWiIu_b6Jg/w400-no/Packing%2Band%2BDelivery.jpg"
                 },
                 {
-                  "name":"Laundry Services",
+                  "name":"Laundry Service",
                   "brief":"",
                   "description":"We give the best value for money laundry service which no one in the city can give which comes with insurance on the dress. We will take care of your dress like that is ours.",
                   "price":"10-50/Dress",
@@ -49,7 +49,7 @@
                   "image":"https://lh5.googleusercontent.com/-bK-TmIQoeeI/VMEhl-M5Q1I/AAAAAAAASmc/5gSDDXr03as/w400-no/Laundry%2BServices.jpg"
                 },
                 {
-                    "name":"Carpenting Service",
+                    "name":"Carpenter Services",
                     "brief":"",
                     "description":"If you have any carpenter work we are ready to do it. We have the best and most professional team of carpenenter. If you have repairs or want to make your new furniture for your home or office we will be there and help you with the task.",
                     "price":"300/Hour",
@@ -58,7 +58,7 @@
                     "image":"https://lh3.googleusercontent.com/-5At6G4uT9lw/VMEfhBpd7hI/AAAAAAAASlM/1UkO3tyFLlw/w400-no/carpenter.jpg"
                 },
                 {
-                    "name":"Plumbing Service",
+                    "name":"Plumbing Services",
                     "brief":"",
                     "description":"We provide the best plumber whom you can trust and won't cheat you like your earlier plumbers. The plumbers we have come with the tools and they will give you free service. Only if there is any equipment we will charge so don't worry and just call our plumber.",
                     "price":"200/Hour",
@@ -80,7 +80,7 @@
                     "brief":"",
                     "description":"We have all types of doctors who are ready to answer your query within 10 mins. So you don't have to go to doctor anymore you can talk to your family doctor. If you have one. If you don't have one you can get a new family doctor using go driveline. If anything is complex we will arrange a schedule with doctor immediately.",
                     "price":"300/Hour",
-                    "tasks":"Family Doctor.",
+                    "tasks":"Consultation and Diagnosis.",
                     "time":"10AM-8PM",
                     "image":"https://lh3.googleusercontent.com/-IWp3Yq2NjlM/VMEiQaYMGwI/AAAAAAAASmw/pP6nXyvJ6nA/w400-no/Doctors.jpg"
                 }
@@ -332,15 +332,6 @@
                     "tasks":"Pays Bill",
                     "time":"10AM-8PM",
                     "image":"https://lh6.googleusercontent.com/-9SMauDhSnkc/VMExXQzcS3I/AAAAAAAASrQ/HEryl0_JMlU/w400-no/Office%2BSupplies.jpg"
-                },
-                {
-                    "name":"Carcinogens",
-                    "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
-                    "price":"false",
-                    "tasks":"Pays Bill",
-                    "time":"10AM-8PM",
-                    "image":"https://lh4.googleusercontent.com/-SffU9PkT6Yc/VMEx0SoaGLI/AAAAAAAASrg/nf1AHW51PmI/w400-no/Smoking.jpg"
                 }
              ]
         },
