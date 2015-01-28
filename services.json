@@ -42,9 +42,9 @@
                 {
                   "name":"Laundry Service",
                   "brief":"",
-                  "description":"Affordable & Value for money Laundry service, which is also Insured. Washing, Dry Cleaning, Ironing and Folding.",
+                  "description":"Affordable & Value for Money Laundry services, which is also Insured. Includes Washing, Dry-Cleaning, Ironing and Folding.",
                   "price":"10-50/Dress",
-                  "tasks":"Washing, Dry Cleaning, Ironing, Folding",
+                  "tasks":"Washing, Dry-Cleaning, Ironing, Folding",
                   "time":"10AM-8PM",
                   "image":"https://lh5.googleusercontent.com/-bK-TmIQoeeI/VMEhl-M5Q1I/AAAAAAAASmc/5gSDDXr03as/w400-no/Laundry%2BServices.jpg"
                 },
@@ -146,27 +146,27 @@
                 {
                     "name":"News Paper",
                     "brief":"",
-                    "description":"Book for magazines, newspapers - English, Regional, Local ADs..",
+                    "description":"Book any magazine, newspaper - English, Regional, Local ADs..",
                     "price":"false",
-                    "tasks":"Newspaper Delivery",
+                    "tasks":"Newspaper Delivery Service",
                     "time":"10AM-8PM",
                     "image":"https://lh3.googleusercontent.com/-Jzpc0H6AcIs/VMEsBvYHbzI/AAAAAAAASoI/VlA_DlHYPDw/w400-no/News%2BPaper.jpg"
                 },
                 {
                     "name":"Handy Man",
                     "brief":"",
-                    "description":"",
+                    "description":"Helpers for minor house works",
                     "price":"false",
-                    "tasks":"Pays Bill",
+                    "tasks":"Does minor works - Helpers",
                     "time":"10AM-8PM",
                     "image":"https://lh6.googleusercontent.com/-iXN5lNVb930/VMEsr3s04FI/AAAAAAAASoY/gxfF5Dih0FA/w400-no/Handy%2BMan.jpg"
                 },
                 {
                     "name":"Carpenter",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Furniture work and Repairs.",
                     "price":"false",
-                    "tasks":"Pays Bill",
+                    "tasks":"Any Furniture work and Repairs",
                     "time":"10AM-8PM",
                     "image":"https://lh3.googleusercontent.com/-5At6G4uT9lw/VMEfhBpd7hI/AAAAAAAASlM/1UkO3tyFLlw/w400-no/carpenter.jpg"
                 },
@@ -194,36 +194,36 @@
             "name":"Bill Payment",
             "services":[
                 {
-                    "name":"Mobile",
+                    "name":"Mobile Bills",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Paying any Mobile Bills - Post Paid, Pre-paid Recharge & Internet Bills.",
                     "price":"false",
                     "tasks":"Pays Bill",
                     "time":"10AM-8PM",
                     "image":"https://lh4.googleusercontent.com/-Qk6_jLkfoSM/VMEtW1wy7_I/AAAAAAAASoo/AFyaNgTRilI/w400-no/Mobile%2BBill.jpg"
                 },
                 {
-                    "name":"DTH",
+                    "name":"DTH Payment",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Pay any DTH Recharges with Go Driveline manager.",
                     "price":"false",
-                    "tasks":"Pays Bill",
+                    "tasks":"Pay DTH bills and Recharges",
                     "time":"10AM-8PM",
                     "image":"https://lh3.googleusercontent.com/-xP0I0Y-iOeo/VMEtqyLFyuI/AAAAAAAASo4/8Uw4tVs90Sg/w400-no/DTH%2BBill.jpg"
                 },
                 {
                     "name":"Data Card",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Pay any of your Data Cards with your Go Driveline Manager.",
                     "price":"false",
-                    "tasks":"Pays Bill",
+                    "tasks":"Pay Data Card Recharges",
                     "time":"10AM-8PM",
                     "image":"https://lh5.googleusercontent.com/-l9OsFobYdvI/VMEuDBnCaYI/AAAAAAAASpI/6a8G72Gytq8/w400-no/Data%2BCard%2BBill.jpg"
                 },
                 {
                     "name":"LandLine",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Pay any LandLine bills, with your Go Driveline Manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
                     "time":"10AM-8PM",
@@ -232,7 +232,7 @@
                 {
                     "name":"Electricity",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Pay any Electricity bills, with your Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
                     "time":"10AM-8PM",
@@ -264,15 +264,6 @@
                     "tasks":"Pays Bill",
                     "time":"10AM-8PM",
                     "image":"https://lh5.googleusercontent.com/--8X-uxZGGm0/VMEroDkqAzI/AAAAAAAASns/Iqbyzn0RZVY/w400-no/Milk%2BService.jpg"
-                },
-                {
-                    "name":"News Paper",
-                    "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
-                    "price":"false",
-                    "tasks":"Pays Bill",
-                    "time":"10AM-8PM",
-                    "image":"https://lh3.googleusercontent.com/-Jzpc0H6AcIs/VMEsBvYHbzI/AAAAAAAASoI/VlA_DlHYPDw/w400-no/News%2BPaper.jpg"
                 },
                 {
                     "name":"Income Tax work",
@@ -342,7 +333,7 @@
             {
               "name":"Vegetables",
               "brief":"",
-              "description":"Pay internet bills, with Go Driveline manager.",
+              "description":"Book Vegetables with a Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
               "time":"10AM-8PM",
@@ -351,7 +342,7 @@
             {
               "name":"Fruits",
               "brief":"",
-              "description":"Pay internet bills, with Go Driveline manager.",
+              "description":"Book Fresh Fruits with a Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
               "time":"10AM-8PM",
@@ -360,7 +351,7 @@
             {
               "name":"Refrigerated",
               "brief":"",
-              "description":"Pay internet bills, with Go Driveline manager.",
+              "description":"Book Any Refrigerated Foods with a Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
               "time":"10AM-8PM",
@@ -369,16 +360,7 @@
             {
               "name":"Frozen Food",
               "brief":"",
-              "description":"Pay internet bills, with Go Driveline manager.",
-              "price":"false",
-              "tasks":"Pays Bill",
-              "time":"10AM-8PM",
-              "image":"https://lh4.googleusercontent.com/-TAqVceU78PE/VMEQnNo2oJI/AAAAAAAASk0/oUwhUOTpAIs/w400/5550603068_fc4c3a0e14_o.jpg"
-            },
-            {
-              "name":"Condiments",
-              "brief":"",
-              "description":"Pay internet bills, with Go Driveline manager.",
+              "description":"Book Any Frozen Foods with a Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
               "time":"10AM-8PM",
@@ -387,25 +369,25 @@
             {
               "name":"Canned Foods",
               "brief":"",
-              "description":"Pay internet bills, with Go Driveline manager.",
+              "description":"Pay internet bills, with a Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
               "time":"10AM-8PM",
               "image":"https://lh4.googleusercontent.com/-TAqVceU78PE/VMEQnNo2oJI/AAAAAAAASk0/oUwhUOTpAIs/w400/5550603068_fc4c3a0e14_o.jpg"
             },
             {
-              "name":"Spices and Herbs",
+              "name":"Fresh Green leafs.",
               "brief":"",
-              "description":"Pay internet bills, with Go Driveline manager.",
+              "description":"Fresh Green leafy Vegetables with a Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
               "time":"10AM-8PM",
               "image":"https://lh4.googleusercontent.com/-TAqVceU78PE/VMEQnNo2oJI/AAAAAAAASk0/oUwhUOTpAIs/w400/5550603068_fc4c3a0e14_o.jpg"
             },
             {
-              "name":"Dairy",
+              "name":"Dairy Products",
               "brief":"",
-              "description":"Pay internet bills, with Go Driveline manager.",
+              "description":"Book Dairy Prodcuts with a Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
               "time":"10AM-8PM",
@@ -475,18 +457,9 @@
               "image":"https://lh4.googleusercontent.com/-TAqVceU78PE/VMEQnNo2oJI/AAAAAAAASk0/oUwhUOTpAIs/w400/5550603068_fc4c3a0e14_o.jpg"
             },
             {
-              "name":"Themed Meals",
-              "brief":"",
-              "description":"Pay internet bills, with Go Driveline manager.",
-              "price":"false",
-              "tasks":"Pays Bill",
-              "time":"10AM-8PM",
-              "image":"https://lh4.googleusercontent.com/-TAqVceU78PE/VMEQnNo2oJI/AAAAAAAASk0/oUwhUOTpAIs/w400/5550603068_fc4c3a0e14_o.jpg"
-            },
-            {
               "name":"Baby Stuff",
               "brief":"",
-              "description":"Pay internet bills, with Go Driveline manager.",
+              "description":"Request for any Baby Stuff with a Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
               "time":"10AM-8PM",
@@ -495,7 +468,7 @@
             {
               "name":"For Pets",
               "brief":"",
-              "description":"Pay internet bills, with Go Driveline manager.",
+              "description":"Book Pet Care Food with a Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
               "time":"10AM-8PM",
