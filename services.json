@@ -4,7 +4,7 @@
             "name":"Available Services",
             "services":[
                 {
-                    "name":"Bill Payments & Recharges",
+                    "name":"Bill Payments, Recharges",
                     "brief":"Your GoDriveline Manager will collect all your House Bills - Internet, Telephone, Electricity, Water, Gas, Tax, Insurance etc and Pay it up for you.",
                     "description":"Pay all your House Bills with your GoDriveline Home Manager.\n\n  We will come to your house and pay your Outstanding bills if any. No need of using any credit cards anymore, you can always trust your GoDriveline manager to Pay your entire bills. It's free with the Monthly GoDriveline subscription",
                     "price":"20/Bill",
@@ -31,7 +31,7 @@
                   "image":"https://lh6.googleusercontent.com/-FUrwZo403nM/VMEP49yKAxI/AAAAAAAASkc/itEvCGbTgpU/w400-no/home.jpg"
                 },
                 {
-                  "name":"Any Pickup and Delivery Service",
+                  "name":"Pickup and Delivery Service",
                   "brief":"Courier Services, Packers and Movers, Shifting Services. Book any Such Services with GoDriveline",
                   "description":"Pickup, Delivery Service and Courier Service. Next time you want to send anything from one place to another we will do at the lowest cost.",
                   "price":"Starts from 100/Hour",
@@ -76,7 +76,7 @@
                     "image":"https://lh5.googleusercontent.com/-gs0Y6T77akU/VMEhQDXxOrI/AAAAAAAASmM/x-2SK3znpHg/w400-no/Interior%2BDecorators.jpg"
                 },
                 {
-                    "name":"Doctor and Emergency Service",
+                    "name":"Doctor and Emergency Services",
                     "brief":"Pre-book an Appointment for Doctor consultation using GoDriveline",
                     "description":"We have all types of doctors who are Ready to answer your query within 10 mins. So you don't have to go to doctor anymore you can talk to your family doctor. If you have one. If you don't have one you can get a new family doctor using go driveline. If anything is complex we will arrange a schedule with doctor immediately.",
                     "price":"300/Hour",
@@ -90,9 +90,9 @@
             "name":"Home Services",
             "services":[
                 {
-                    "name":"Cleaning Service",
-                    "brief":"This service Covers Regular Home Cleaning Service - ",
-                    "description":"Does all Home cleaning services.",
+                    "name":"Cleaning subscription Package",
+                    "brief":"This service Covers Regular Home Cleaning.",
+                    "description":"Covers all Home cleaning services.",
                     "price":"false",
                     "tasks":"general cleaning services",
                     "time":"10AM-8PM",
@@ -282,34 +282,34 @@
                 {
                     "name":"Personal Care",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Personal Helpers, Nursing & Care for disabled and Old.",
                     "price":"false",
                     "tasks":"Pays Bill",
-                    "time":"10AM-8PM",
+                    "time":"11AM-8PM",
                     "image":"https://lh5.googleusercontent.com/-2s-YjclcN-Q/VMEwbvy_WvI/AAAAAAAASqg/PhYzW3Hm67Q/w400-no/Personal%2BCare.jpg"
                 },
                 {
                     "name":"Medicines",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Medicine Delivery Service.",
                     "price":"false",
                     "tasks":"Pays Bill",
                     "time":"10AM-8PM",
                     "image":"https://lh5.googleusercontent.com/-zeoqvCFgKcM/VMEw0Za-vnI/AAAAAAAASqs/Yyp2i5LQYc4/s400-no/Medicines.jpg"
                 },
                 {
-                    "name":"Kitchen",
+                    "name":"Kitchen Cleaning",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Get Hob Cleaning & general Kitchen Cleaning works done",
                     "price":"false",
                     "tasks":"Pays Bill",
                     "time":"10AM-8PM",
                     "image":"https://lh5.googleusercontent.com/-HJuK0YKTwlY/VMExDautZII/AAAAAAAASq8/lHtOeivpj-w/w400-no/Kitchen.jpg"
                 },
                 {
-                    "name":"Cleaning Stuff",
-                    "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "name":"Annual Maintenance Contract",
+                    "brief":"Complete House Maintenance",
+                    "description":"Complete House Maintenance is Insured. Call your Go-Driveline Manager for your Home Visit",
                     "price":"false",
                     "tasks":"Cleaning,",
                     "time":"10AM-8PM",
