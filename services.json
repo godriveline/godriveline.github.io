@@ -22,7 +22,7 @@
                   "image":"https://lh5.googleusercontent.com/--8X-uxZGGm0/VMEroDkqAzI/AAAAAAAASns/Iqbyzn0RZVY/w400-no/Milk%2BService.jpg"
                 },
                 {
-                  "name":"Book Cleaning Service",
+                  "name":"Home Cleaning Services",
                   "brief":"Complete Home Cleaning Services - Rooms, Kitchen, Washrooms & Toilets.",
                   "description":"GoDriveline provides Home Cleaning services. Cleaning entire House includes washrooms, bathrooms and kitchen. The pricing depends on the size of your house or office.\n\n Our Manager will manage the entire process so you don't have to worry anything just relax and the work is done you don't have todo anything all the work is perfect managed by our manager. ",
                   "price":"100+/Hour",
@@ -42,16 +42,16 @@
                 {
                   "name":"Laundry Service",
                   "brief":"",
-                  "description":"We give the best value for money laundry service which no one in the city can give which comes with insurance on the dress. We will take care of your dress like that is ours.",
+                  "description":"Affordable & Value for money Laundry service, which is also Insured. Washing, Dry Cleaning, Ironing and Folding.",
                   "price":"10-50/Dress",
                   "tasks":"Washing, Dry Cleaning, Ironing, Folding",
                   "time":"10AM-8PM",
                   "image":"https://lh5.googleusercontent.com/-bK-TmIQoeeI/VMEhl-M5Q1I/AAAAAAAASmc/5gSDDXr03as/w400-no/Laundry%2BServices.jpg"
                 },
                 {
-                    "name":"Carpenter Services",
+                    "name":"Carpenter Service",
                     "brief":"",
-                    "description":"If you have any carpenter work we are ready to do it. We have the best and most professional team of Carpenters. If you have repairs or want to make your new furniture for your home or office we will be there and help you with the task.",
+                    "description":"Have any Carpentery work Pending? We provide Professional Team of Carpenters based on your requirements. It might have Repairs or need for any new furnitures for your Home or Office.",
                     "price":"200/Hour",
                     "tasks":"Furnitures, Wardrobes, Repairs & Consultation, ",
                     "time":"10AM-8PM",
@@ -60,15 +60,15 @@
                 {
                     "name":"Plumbing Services",
                     "brief":"",
-                    "description":"We provide a Plumber whom you can Trust. The plumbers come with tools and they will give you free service. Only if there is any equipment we will charge so don't worry and just call our plumber.",
+                    "description":"We provide a Plumber whom you can Trust. Our plumbers come with all tools. Our Plumbers are Available on Call.",
                     "price":"200/Hour",
-                    "tasks":"Fixing, Water works and Piping",
-                    "time":"10AM-8PM",
+                    "tasks":"Fix, any Water works, leakages and new Piping",
+                    "time":"8AM-8PM",
                     "image":"https://lh6.googleusercontent.com/-WL48QH8ETPs/VMY7B-gf0dI/AAAAAAAAS4E/CcfjwE6XwYQ/w400-no/Plumber.JPG"
                 },
                 {
                     "name":"Interior Decorators/Designers",
-                    "brief":"Get ",
+                    "brief":"",
                     "description":"We have experienced Interior Decoraters. If you are Inviting your friends and you think your house is messed up with all the things and crap. You can go with Go Driveline Manager who will help you with various things in your house and arrange things.",
                     "price":"500/Hour",
                     "tasks":"Decoration, Design & Consultation",
@@ -78,7 +78,7 @@
                 {
                     "name":"Doctor and Emergency Service",
                     "brief":"",
-                    "description":"We have all types of doctors who are ready to answer your query within 10 mins. So you don't have to go to doctor anymore you can talk to your family doctor. If you have one. If you don't have one you can get a new family doctor using go driveline. If anything is complex we will arrange a schedule with doctor immediately.",
+                    "description":"We have all types of doctors who are Ready to answer your query within 10 mins. So you don't have to go to doctor anymore you can talk to your family doctor. If you have one. If you don't have one you can get a new family doctor using go driveline. If anything is complex we will arrange a schedule with doctor immediately.",
                     "price":"300/Hour",
                     "tasks":"General Consultation and Diagnosis.",
                     "time":"6AM-10PM",
@@ -92,70 +92,70 @@
                 {
                     "name":"Cleaning Service",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Does all Home cleaning services.",
                     "price":"false",
-                    "tasks":"Pays Bill",
+                    "tasks":"general cleaning services",
                     "time":"10AM-8PM",
                     "image":"https://lh6.googleusercontent.com/-FUrwZo403nM/VMEP49yKAxI/AAAAAAAASkc/itEvCGbTgpU/w400-no/home.jpg"
                 },
                 {
                     "name":"Watch Man / Security Guard",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"House watching and Security service.",
                     "price":"false",
-                    "tasks":"Pays Bill",
+                    "tasks":"Security, House Watchmen",
                     "time":"10AM-8PM",
                     "image":"https://lh5.googleusercontent.com/-djiUwZx9bls/VMEqRSyYOsI/AAAAAAAASnA/PXli68bW48M/w400-no/Watch%2BMan%2B%3A%2BSecurity%2BGuard.jpg"
                 },
                 {
                     "name":"Cook",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Cooks South Indian, North Indian dishes. You can ask for any type of Dish.",
                     "price":"false",
-                    "tasks":"Pays Bill",
+                    "tasks":"Cooking",
                     "time":"10AM-8PM",
                     "image":"https://lh3.googleusercontent.com/-3lkn_V281KM/VMEq4_LhodI/AAAAAAAASnU/ITQ_6V3erAg/w400-no/Cook.jpg"
                 },
                 {
                     "name":"Plumber",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Book for any Plumbing service",
                     "price":"false",
-                    "tasks":"Pays Bill",
+                    "tasks":"Plumbing, Water works, fixing and Repairs",
                     "time":"10AM-8PM",
                     "image":"https://lh6.googleusercontent.com/-utTBC0r20w4/VMEgCk6-COI/AAAAAAAASlc/2j1XCjhzEI4/w400-no/plumber.jpg"
                 },
                 {
                     "name":"Electrician",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Any electrical works - Fixing, Wiring and Re-wiring.",
                     "price":"false",
-                    "tasks":"Pays Bill",
+                    "tasks":"Electrical",
                     "time":"10AM-8PM",
                     "image":"https://lh6.googleusercontent.com/-m1S8rdW1C_o/VMErRTKkEsI/AAAAAAAASng/5QuBue9UdX4/w400-no/Electrician.jpg"
                 },
                 {
                   "name":"Milk Service",
                   "brief":"",
-                  "description":"Pay internet bills, with Go Driveline manager.",
+                  "description":"Milk and Dairy Delivery as a service. Direct to Home service.",
                   "price":"false",
-                  "tasks":"Pays Bill",
+                  "tasks":"Mike and Dairy Products Delivery",
                   "time":"10AM-8PM",
                   "image":"https://lh5.googleusercontent.com/--8X-uxZGGm0/VMEroDkqAzI/AAAAAAAASns/Iqbyzn0RZVY/w400-no/Milk%2BService.jpg"
                 },
                 {
                     "name":"News Paper",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"Book for magazines, newspapers - English, Regional, Local ADs..",
                     "price":"false",
-                    "tasks":"Pays Bill",
+                    "tasks":"Newspaper Delivery",
                     "time":"10AM-8PM",
                     "image":"https://lh3.googleusercontent.com/-Jzpc0H6AcIs/VMEsBvYHbzI/AAAAAAAASoI/VlA_DlHYPDw/w400-no/News%2BPaper.jpg"
                 },
                 {
                     "name":"Handy Man",
                     "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "description":"",
                     "price":"false",
                     "tasks":"Pays Bill",
                     "time":"10AM-8PM",
@@ -221,7 +221,7 @@
                     "image":"https://lh5.googleusercontent.com/-l9OsFobYdvI/VMEuDBnCaYI/AAAAAAAASpI/6a8G72Gytq8/w400-no/Data%2BCard%2BBill.jpg"
                 },
                 {
-                    "name":"Land line",
+                    "name":"LandLine",
                     "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
@@ -320,16 +320,16 @@
                     "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
-                    "tasks":"Pays Bill",
+                    "tasks":"Cleaning,",
                     "time":"10AM-8PM",
                     "image":"https://lh6.googleusercontent.com/-FUrwZo403nM/VMEP49yKAxI/AAAAAAAASkc/itEvCGbTgpU/w400-no/home.jpg"
                 },
                 {
                     "name":"Office Supplies",
-                    "brief":"",
-                    "description":"Pay internet bills, with Go Driveline manager.",
+                    "brief":"Printing Service, Fax Machine, Chairs, Cabins, Furnitures etc",
+                    "description":"Any office supplies - Brochures, Fax, Printing, Cleaning, desks, boards, furnitures, Stationaries",
                     "price":"false",
-                    "tasks":"Pays Bill",
+                    "tasks":"office supply manager",
                     "time":"10AM-8PM",
                     "image":"https://lh6.googleusercontent.com/-9SMauDhSnkc/VMExXQzcS3I/AAAAAAAASrQ/HEryl0_JMlU/w400-no/Office%2BSupplies.jpg"
                 }
