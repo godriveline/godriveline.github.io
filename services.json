@@ -1,11 +1,12 @@
 {
     "categories": [
         {
-            "name":"Active Services",
+            "name":"Available Services",
             "services":[
                 {
-                    "name":"Bill Payment",
-                    "description":"Pay internet bills, with Go Driveline manager.\n\n With go driveline we will come to your house and pay your bills, which will help you pay all your bills with internet account. No need of having your credit card details anymore you can use our manager who will manage your entire bill payment. It's free with monthly go driveline subscription fee",
+                    "name":"Bill Payments",
+                    "brief":"Your Go Driveline Manager will collect all your Bills and Pay it up for you. ",
+                    "description":"Pay internet bills, with a Go Driveline Manager.\n\n With go driveline we will come to your house and pay your bills, which will help you pay all your bills with internet account. No need of having your credit card details anymore you can use our manager who will manage your entire bill payment. It's free with monthly go driveline subscription fee",
                     "price":"Free Service",
                     "tasks":"Bill Payment",
                     "time":"10AM-8PM",
@@ -13,6 +14,7 @@
                 },
                 {
                   "name":"Milk Delivery Service",
+                  "brief":"",
                   "description":"Go Driveline deliver you fresh organic milk which directly comes from the farm without and water mixed. 100% Purity Gauranteed.\n\n The price difference depends on various things like amount of fat precent in the milk, the favour of the milk, cow or buffalo milk, etc. So before you buy it's good if you tell us the purpose and the use of the milk so that we can suggest the best milk for the best things which you are making. We have expert milk specialists.",
                   "price":"40-100/Liter",
                   "tasks":"Milk deliver",
@@ -21,6 +23,7 @@
                 },
                 {
                   "name":"Cleaning Service",
+                  "brief":"",
                   "description":"Go Driveline gives you cleaning service which means cleaning every room including bathroom, hall, bed rooms and kitchen. The price depends on the size of your house or office.\n\n Our manager will manage the entire process so you don't have to worry anything just relax and the work is done you don't have todo anything all the work is perfect managed by our manager. ",
                   "price":"100+/Hour",
                   "tasks":"Cleaning, Washing, Floor Cleaning",
@@ -29,6 +32,7 @@
                 },
                 {
                   "name":"Pickup and Delivery Service",
+                  "brief":"",
                   "description":"Pickup, Delivery Service and Courier Service. Next time you want to send anything from one place to another we will do at the lowest cost.",
                   "price":"100+/Hour",
                   "tasks":"Cleaning, Washing, Floor Cleaning",
@@ -37,6 +41,7 @@
                 },
                 {
                   "name":"Laundry Services",
+                  "brief":"",
                   "description":"We give the best value for money laundry service which no one in the city can give which comes with insurance on the dress. We will take care of your dress like that is ours.",
                   "price":"10-50/Dress",
                   "tasks":"Washing, Dry Cleaning, Ironing",
@@ -45,6 +50,7 @@
                 },
                 {
                     "name":"Carpenting Service",
+                    "brief":"",
                     "description":"If you have any carpenter work we are ready to do it. We have the best and most professional team of carpenenter. If you have repairs or want to make your new furniture for your home or office we will be there and help you with the task.",
                     "price":"300/Hour",
                     "tasks":"Pays Bill",
@@ -53,6 +59,7 @@
                 },
                 {
                     "name":"Plumbing Service",
+                    "brief":"",
                     "description":"We provide the best plumber whom you can trust and won't cheat you like your earlier plumbers. The plumbers we have come with the tools and they will give you free service. Only if there is any equipment we will charge so don't worry and just call our plumber.",
                     "price":"200/Hour",
                     "tasks":"Pays Bill",
@@ -61,6 +68,7 @@
                 },
                 {
                     "name":"Interior Decorators/Designers",
+                    "brief":"",
                     "description":"We have world class interior decoraters to ordinary arrangment people. If you are inviting your friends and you think your house is messed up with all the things and crap. You can go with go driveline manage who will help you with various things in your house and arrange things.",
                     "price":"500/Hour",
                     "tasks":"Decoration, Designing",
@@ -69,6 +77,7 @@
                 },
                 {
                     "name":"Doctor and Emergency Service",
+                    "brief":"",
                     "description":"We have all types of doctors who are ready to answer your query within 10 mins. So you don't have to go to doctor anymore you can talk to your family doctor. If you have one. If you don't have one you can get a new family doctor using go driveline. If anything is complex we will arrange a schedule with doctor immediately.",
                     "price":"300/Hour",
                     "tasks":"Family Doctor.",
@@ -82,6 +91,7 @@
             "services":[
                 {
                     "name":"Cleaning Service",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -90,6 +100,7 @@
                 },
                 {
                     "name":"Watch Man / Security Guard",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -98,6 +109,7 @@
                 },
                 {
                     "name":"Cook",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -106,6 +118,7 @@
                 },
                 {
                     "name":"Plumber",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -114,6 +127,7 @@
                 },
                 {
                     "name":"Electrician",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -122,6 +136,7 @@
                 },
                 {
                   "name":"Milk Service",
+                  "brief":"",
                   "description":"Pay internet bills, with Go Driveline manager.",
                   "price":"false",
                   "tasks":"Pays Bill",
@@ -130,6 +145,7 @@
                 },
                 {
                     "name":"News Paper",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -138,6 +154,7 @@
                 },
                 {
                     "name":"Handy Man",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -146,6 +163,7 @@
                 },
                 {
                     "name":"Carpenter",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -154,6 +172,7 @@
                 },
                 {
                     "name":"Family Doctor",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -162,6 +181,7 @@
                 },
                 {
                   "name":"Home Appliance",
+                  "brief":"",
                   "description":"Pay internet bills, with Go Driveline manager.",
                   "price":"Free Service",
                   "tasks":"Buying Home appliances",
@@ -175,6 +195,7 @@
             "services":[
                 {
                     "name":"Mobile",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -183,6 +204,7 @@
                 },
                 {
                     "name":"DTH",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -191,6 +213,7 @@
                 },
                 {
                     "name":"Data Card",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -199,6 +222,7 @@
                 },
                 {
                     "name":"Land line",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -207,6 +231,7 @@
                 },
                 {
                     "name":"Electricity",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -215,6 +240,7 @@
                 },
                 {
                     "name":"Gas",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -223,6 +249,7 @@
                 },
                 {
                     "name":"Insurance",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -231,6 +258,7 @@
                 },
                 {
                     "name":"Milk",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -239,6 +267,7 @@
                 },
                 {
                     "name":"News Paper",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -246,7 +275,8 @@
                     "image":"https://lh3.googleusercontent.com/-Jzpc0H6AcIs/VMEsBvYHbzI/AAAAAAAASoI/VlA_DlHYPDw/w400-no/News%2BPaper.jpg"
                 },
                 {
-                    "name":"Income Tax",
+                    "name":"Income Tax work",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -260,6 +290,7 @@
              "services":[
                 {
                     "name":"Personal Care",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -268,6 +299,7 @@
                 },
                 {
                     "name":"Medicines",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -276,6 +308,7 @@
                 },
                 {
                     "name":"Kitchen",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -284,6 +317,7 @@
                 },
                 {
                     "name":"Cleaning Stuff",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -292,6 +326,7 @@
                 },
                 {
                     "name":"Office Supplies",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -300,6 +335,7 @@
                 },
                 {
                     "name":"Carcinogens",
+                    "brief":"",
                     "description":"Pay internet bills, with Go Driveline manager.",
                     "price":"false",
                     "tasks":"Pays Bill",
@@ -314,6 +350,7 @@
           "services":[
             {
               "name":"Vegetables",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -321,7 +358,8 @@
               "image":"https://lh4.googleusercontent.com/-TAqVceU78PE/VMEQnNo2oJI/AAAAAAAASk0/oUwhUOTpAIs/w400/5550603068_fc4c3a0e14_o.jpg"
             },
             {
-              "name":"Fruites",
+              "name":"Fruits",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -329,7 +367,8 @@
               "image":"https://lh4.googleusercontent.com/-TAqVceU78PE/VMEQnNo2oJI/AAAAAAAASk0/oUwhUOTpAIs/w400/5550603068_fc4c3a0e14_o.jpg"
             },
             {
-              "name":"Refrigeted",
+              "name":"Refrigerated",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -337,7 +376,8 @@
               "image":"https://lh4.googleusercontent.com/-TAqVceU78PE/VMEQnNo2oJI/AAAAAAAASk0/oUwhUOTpAIs/w400/5550603068_fc4c3a0e14_o.jpg"
             },
             {
-              "name":"Frozen",
+              "name":"Frozen Food",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -346,6 +386,7 @@
             },
             {
               "name":"Condiments",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -354,6 +395,7 @@
             },
             {
               "name":"Canned Foods",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -362,6 +404,7 @@
             },
             {
               "name":"Spices and Herbs",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -370,6 +413,7 @@
             },
             {
               "name":"Dairy",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -378,6 +422,7 @@
             },
             {
               "name":"Cheese",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -386,6 +431,7 @@
             },
             {
               "name":"Meat",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -394,6 +440,7 @@
             },
             {
               "name":"Seafood",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -402,6 +449,7 @@
             },
             {
               "name":"Beverages",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -410,6 +458,7 @@
             },
             {
               "name":"Backed Goods",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -418,6 +467,7 @@
             },
             {
               "name":"Baking",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -426,6 +476,7 @@
             },
             {
               "name":"Snacks",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -434,6 +485,7 @@
             },
             {
               "name":"Themed Meals",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -442,6 +494,7 @@
             },
             {
               "name":"Baby Stuff",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
@@ -449,7 +502,8 @@
               "image":"https://lh4.googleusercontent.com/-TAqVceU78PE/VMEQnNo2oJI/AAAAAAAASk0/oUwhUOTpAIs/w400/5550603068_fc4c3a0e14_o.jpg"
             },
             {
-              "name":"Pets",
+              "name":"For Pets",
+              "brief":"",
               "description":"Pay internet bills, with Go Driveline manager.",
               "price":"false",
               "tasks":"Pays Bill",
