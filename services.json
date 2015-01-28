@@ -4,15 +4,15 @@
             "name":"Active Services",
             "services":[
                 {
-                    "name":"Internet Bill",
+                    "name":"Bill Payment",
                     "description":"Pay internet bills, with Go Driveline manager.\n\n With go driveline we will come to your house and pay your bills, which will help you pay all your bills with internet account. No need of having your credit card details anymore you can use our manager who will manage your entire bill payment. It's free with monthly go driveline subscription fee",
                     "price":"Free Service",
                     "tasks":"Bill Payment",
                     "time":"10AM-8PM",
-                    "image":"https://lh4.googleusercontent.com/-TAqVceU78PE/VMEQnNo2oJI/AAAAAAAASk0/oUwhUOTpAIs/w400/5550603068_fc4c3a0e14_o.jpg"
+                    "image":"https://lh3.googleusercontent.com/-CO_2E2o2gSs/VMEglx98BwI/AAAAAAAASlw/dzVp4yWWKVI/w400-no/electricity_bill.jpg"
                 },
                 {
-                  "name":"Milk Service",
+                  "name":"Milk Delivery Service",
                   "description":"Go Driveline deliver you fresh organic milk which directly comes from the farm without and water mixed. 100% Purity Gauranteed.\n\n The price difference depends on various things like amount of fat precent in the milk, the favour of the milk, cow or buffalo milk, etc. So before you buy it's good if you tell us the purpose and the use of the milk so that we can suggest the best milk for the best things which you are making. We have expert milk specialists.",
                   "price":"40-100/Liter",
                   "tasks":"Milk deliver",
@@ -28,12 +28,12 @@
                   "image":"https://lh6.googleusercontent.com/-FUrwZo403nM/VMEP49yKAxI/AAAAAAAASkc/itEvCGbTgpU/w400-no/home.jpg"
                 },
                 {
-                  "name":"Electricity Bill",
-                  "description":"Don't worry about the bills anymore we will come and pay your electricity bill for you, you don't have to spend your valuable time on paying electricity bill.\n\n We will take care of everything we will come monthly and check your bill and pay them on time. You don't have to worry anymore and even forget that you were paying for electricity we come and pay the bills.",
-                  "price":"Free Service",
-                  "tasks":"Bill Payment",
+                  "name":"Pickup and Delivery Service",
+                  "description":"Pickup, Delivery Service and Courier Service. Next time you want to send anything from one place to another we will do at the lowest cost.",
+                  "price":"100+/Hour",
+                  "tasks":"Cleaning, Washing, Floor Cleaning",
                   "time":"10AM-8PM",
-                  "image":"https://lh3.googleusercontent.com/-CO_2E2o2gSs/VMEglx98BwI/AAAAAAAASlw/dzVp4yWWKVI/w400-no/electricity_bill.jpg"
+                  "image":"https://lh4.googleusercontent.com/-kAMacMt84Eg/VMiih4APGsI/AAAAAAAAS5U/CXWiIu_b6Jg/w400-no/Packing%2Band%2BDelivery.jpg"
                 },
                 {
                   "name":"Laundry Services",
@@ -44,7 +44,7 @@
                   "image":"https://lh5.googleusercontent.com/-bK-TmIQoeeI/VMEhl-M5Q1I/AAAAAAAASmc/5gSDDXr03as/w400-no/Laundry%2BServices.jpg"
                 },
                 {
-                    "name":"Carpenter",
+                    "name":"Carpenting Service",
                     "description":"If you have any carpenter work we are ready to do it. We have the best and most professional team of carpenenter. If you have repairs or want to make your new furniture for your home or office we will be there and help you with the task.",
                     "price":"300/Hour",
                     "tasks":"Pays Bill",
@@ -52,12 +52,12 @@
                     "image":"https://lh3.googleusercontent.com/-5At6G4uT9lw/VMEfhBpd7hI/AAAAAAAASlM/1UkO3tyFLlw/w400-no/carpenter.jpg"
                 },
                 {
-                    "name":"Plumber",
+                    "name":"Plumbing Service",
                     "description":"We provide the best plumber whom you can trust and won't cheat you like your earlier plumbers. The plumbers we have come with the tools and they will give you free service. Only if there is any equipment we will charge so don't worry and just call our plumber.",
                     "price":"200/Hour",
                     "tasks":"Pays Bill",
                     "time":"10AM-8PM",
-                    "image":"https://lh6.googleusercontent.com/-utTBC0r20w4/VMEgCk6-COI/AAAAAAAASlc/2j1XCjhzEI4/w400-no/plumber.jpg"
+                    "image":"https://lh6.googleusercontent.com/-WL48QH8ETPs/VMY7B-gf0dI/AAAAAAAAS4E/CcfjwE6XwYQ/w400-no/Plumber.JPG"
                 },
                 {
                     "name":"Interior Decorators/Designers",
@@ -68,7 +68,7 @@
                     "image":"https://lh5.googleusercontent.com/-gs0Y6T77akU/VMEhQDXxOrI/AAAAAAAASmM/x-2SK3znpHg/w400-no/Interior%2BDecorators.jpg"
                 },
                 {
-                    "name":"Doctors",
+                    "name":"Doctor and Emergency Service",
                     "description":"We have all types of doctors who are ready to answer your query within 10 mins. So you don't have to go to doctor anymore you can talk to your family doctor. If you have one. If you don't have one you can get a new family doctor using go driveline. If anything is complex we will arrange a schedule with doctor immediately.",
                     "price":"300/Hour",
                     "tasks":"Family Doctor.",
