@@ -5,26 +5,26 @@
             "services":[
                 {
                     "name":"Bill Payments",
-                    "brief":"Go Driveline Manager will collect all your House Bills - Internet, Telephone, Electricity, Water, Fines",
-                    "description":"Pay all House bills with your Go-Driveline Home Manager.\n\n With Go-Driveline we will come to your house and pay your bills, which will help you pay all your bills with internet account. No need of having your credit card details anymore you can use our manager who will manage your entire bill payment. It's free with monthly go driveline subscription fee",
-                    "price":"Free Service",
-                    "tasks":"Bill Payment",
+                    "brief":"Your GoDriveline Manager will collect all your House Bills - Internet, Telephone, Electricity, Water, Fines etc and Pay it up.",
+                    "description":"Pay all your House Bills with your GoDriveline Home Manager.\n\n  We will come to your house and pay your Outstanding bills if any. No need of using any credit cards anymore, you can always trust your GoDriveline manager to Pay your entire bills. It's free with the Monthly GoDriveline subscription",
+                    "price":"Covered with GoDriveline subscription",
+                    "tasks":"Bill Payments",
                     "time":"10AM-8PM",
                     "image":"https://lh3.googleusercontent.com/-CO_2E2o2gSs/VMEglx98BwI/AAAAAAAASlw/dzVp4yWWKVI/w400-no/electricity_bill.jpg"
                 },
                 {
                   "name":"Milk & Dairy Products Delivery Service",
-                  "brief":"Go Driveline offers Milk & Dairy products delivered at your convenience.",
-                  "description":"Go Driveline Home Delivers fresh organic Milk Directly from farm. 100% Purity Gauranteed.\n\n The pricing of Milk depends on - % of Fat in the milk, the favour of the milk, cow or buffalo milk, etc. Before you buy it's good if you tell us your purpose and the use of the milk so that we can suggest the best milk for things which you are making/cooking next. We also have milk & milk product experts.",
+                  "brief":"GoDriveline offers Milk & Dairy Products Delivery.",
+                  "description":"GoDriveline provides Home Delivery of fresh organic Milk Directly from farm. 100% Purity Gauranteed.\n\n The pricing of Milk depends on - % of Fat in the milk, the flavour of the milk, cow/buffalo milk, etc. Before you buy milk Delivery service, tell us your purpose and the use of the milk so we suggest the best Dairy products for things which you are making.",
                   "price":"40-100/Liter",
-                  "tasks":"Milk deliver",
+                  "tasks":"Milk Dairy Delivery",
                   "time":"10AM-8PM",
                   "image":"https://lh5.googleusercontent.com/--8X-uxZGGm0/VMEroDkqAzI/AAAAAAAASns/Iqbyzn0RZVY/w400-no/Milk%2BService.jpg"
                 },
                 {
                   "name":"Cleaning Service",
-                  "brief":"",
-                  "description":"Go Driveline gives you cleaning service which means cleaning every room including bathroom, hall, bed rooms and kitchen. The price depends on the size of your house or office.\n\n Our manager will manage the entire process so you don't have to worry anything just relax and the work is done you don't have todo anything all the work is perfect managed by our manager. ",
+                  "brief":"Complete Home Cleaning Services",
+                  "description":"GoDriveline provides Home Cleaning services. Cleaning entire House includes washrooms, bathrooms and kitchen. The pricing depends on the size of your house or office.\n\n Our Manager will manage the entire process so you don't have to worry anything just relax and the work is done you don't have todo anything all the work is perfect managed by our manager. ",
                   "price":"100+/Hour",
                   "tasks":"Cleaning, Washing, Floor Cleaning",
                   "time":"10AM-8PM",
