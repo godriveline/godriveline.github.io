@@ -5,7 +5,7 @@
             "services":[
                 {
                     "name":"Bill Payments & Recharges",
-                    "brief":"Your GoDriveline Manager will collect all your House Bills - Internet, Telephone, Electricity, Water, Gas etc and Pay it up for you.",
+                    "brief":"Your GoDriveline Manager will collect all your House Bills - Internet, Telephone, Electricity, Water, Gas, Tax, Insurance etc and Pay it up for you.",
                     "description":"Pay all your House Bills with your GoDriveline Home Manager.\n\n  We will come to your house and pay your Outstanding bills if any. No need of using any credit cards anymore, you can always trust your GoDriveline manager to Pay your entire bills. It's free with the Monthly GoDriveline subscription",
                     "price":"20/Bill",
                     "tasks":"Any Bill Payments, Recharges",
@@ -19,7 +19,7 @@
                   "price":"40 to 60/Litre",
                   "tasks":"Milk & Dairy Products Delivery",
                   "time":"10AM-8PM",
-                  "image":"http://ehealth.eletsonline.com/wp-content/uploads/2012/04/US-wants-India-to-lift-import-ban-on-dairy-products.jpg"
+                  "image":"http://media.mercola.com/ImageServer/Public/2014/January/milk-fb.jpg"
                 },
                 {
                   "name":"Home Cleaning Services",
@@ -32,7 +32,7 @@
                 },
                 {
                   "name":"Any Pickup and Delivery Service",
-                  "brief":"Courier Services, Packers and Movers, Shifting Services.",
+                  "brief":"Courier Services, Packers and Movers, Shifting Services. Book any Such Services with GoDriveline",
                   "description":"Pickup, Delivery Service and Courier Service. Next time you want to send anything from one place to another we will do at the lowest cost.",
                   "price":"Starts from 100/Hour",
                   "tasks":"Item Pickup and Drop, Shifting Services, Packers and Movers.",
@@ -41,7 +41,7 @@
                 },
                 {
                   "name":"Laundry Service",
-                  "brief":"",
+                  "brief":"Washing, Dry-Cleaning, Ironing and Folding. Also your Laundry are Insured.",
                   "description":"Affordable & Value for Money Laundry services, which is also Insured. Includes Washing, Dry-Cleaning, Ironing and Folding.",
                   "price":"10-50/Dress",
                   "tasks":"Washing, Dry-Cleaning, Ironing, Folding",
@@ -50,7 +50,7 @@
                 },
                 {
                     "name":"Carpenter Service",
-                    "brief":"",
+                    "brief":"Book Any Carpentery Service",
                     "description":"Have any Carpentery work Pending? We provide Professional Team of Carpenters based on your requirements. It might have Repairs or need for any new furnitures for your Home or Office.",
                     "price":"200/Hour",
                     "tasks":"Furnitures, Wardrobes, Repairs & Consultation, ",
@@ -59,7 +59,7 @@
                 },
                 {
                     "name":"Plumbing Services",
-                    "brief":"",
+                    "brief":"Book any plumbing service - Any water leakages and Piping works",
                     "description":"We provide a Plumber whom you can Trust. Our plumbers come with all tools. Our Plumbers are Available on Call.",
                     "price":"200/Hour",
                     "tasks":"Fix, any Water works, leakages and new Piping",
@@ -68,7 +68,7 @@
                 },
                 {
                     "name":"Interior Decorators/Designers",
-                    "brief":"",
+                    "brief":"Make your Home look Beautiful by consulting an Interior Designer",
                     "description":"We have experienced Interior Decoraters. If you are Inviting your friends and you think your house is messed up with all the things and crap. You can go with Go Driveline Manager who will help you with various things in your house and arrange things.",
                     "price":"500/Hour",
                     "tasks":"Decoration, Design & Consultation",
@@ -77,7 +77,7 @@
                 },
                 {
                     "name":"Doctor and Emergency Service",
-                    "brief":"",
+                    "brief":"Pre-book an Appointment for Doctor consultation using GoDriveline",
                     "description":"We have all types of doctors who are Ready to answer your query within 10 mins. So you don't have to go to doctor anymore you can talk to your family doctor. If you have one. If you don't have one you can get a new family doctor using go driveline. If anything is complex we will arrange a schedule with doctor immediately.",
                     "price":"300/Hour",
                     "tasks":"General Consultation and Diagnosis.",
@@ -91,7 +91,7 @@
             "services":[
                 {
                     "name":"Cleaning Service",
-                    "brief":"",
+                    "brief":"This service Covers Regular Home Cleaning Service - ",
                     "description":"Does all Home cleaning services.",
                     "price":"false",
                     "tasks":"general cleaning services",
@@ -99,9 +99,9 @@
                     "image":"https://lh6.googleusercontent.com/-FUrwZo403nM/VMEP49yKAxI/AAAAAAAASkc/itEvCGbTgpU/w400-no/home.jpg"
                 },
                 {
-                    "name":"Watch Man / Security Guard",
-                    "brief":"",
-                    "description":"House watching and Security service.",
+                    "name":"Watch-Man/Security-Guard",
+                    "brief":"Book for House Guard. Stay safe.",
+                    "description":"House watching and Security service 247",
                     "price":"false",
                     "tasks":"Security, House Watchmen",
                     "time":"10AM-8PM",
@@ -109,7 +109,7 @@
                 },
                 {
                     "name":"Cook",
-                    "brief":"",
+                    "brief":"Book for Trained Home Cooks",
                     "description":"Cooks South Indian, North Indian dishes. You can ask for any type of Dish.",
                     "price":"false",
                     "tasks":"Cooking",
@@ -118,16 +118,16 @@
                 },
                 {
                     "name":"Plumber",
-                    "brief":"",
-                    "description":"Book for any Plumbing service",
+                    "brief":"Book any plumbing service - Any water leakages and Piping works",
+                    "description":"All Plumbing services are covered under this",
                     "price":"false",
-                    "tasks":"Plumbing, Water works, fixing and Repairs",
+                    "tasks":"Plumbing, Water works, Fixing and Repairs",
                     "time":"10AM-8PM",
                     "image":"https://lh6.googleusercontent.com/-utTBC0r20w4/VMEgCk6-COI/AAAAAAAASlc/2j1XCjhzEI4/w400-no/plumber.jpg"
                 },
                 {
                     "name":"Electrician",
-                    "brief":"",
+                    "brief":"Book for Any Home electrical works",
                     "description":"Any electrical works - Fixing, Wiring and Re-wiring.",
                     "price":"false",
                     "tasks":"Electrical",
