@@ -28,7 +28,8 @@
 </head>
 
 <body>
-        <div class="top-area show-onload">
+        <div class="top-area show-onload" ng-class="screenFixed ? 'fixed' : ''">
+            <button ng-click="toggle()" class="close" ng-class="screenFixed ? '' : 'hide'" ><i class="fa fa-times"></i></button>
             <div class="bg-holder full">
                 <div class="bg-front bg-front-mob-rel full-height">
                     <div class="container full-height">
@@ -102,18 +103,15 @@
 
 
         <div class="wrapper" id="featured-services" ng-controller="ServiceController">
-              <div class="card" ng-repeat="service in featuredService" ng-click="expand(service)">
+              <div class="card" ng-repeat="service in featuredService" ng-class="presentService==service && screenFixed ? 'fixed' : ''">
                 <div class="card__media">
                   <img ng-src="{{service.image}}" alt="" class="card__media--image" />
                   <h3 class="card__headline">{{service.name}}</h3>
                 </div>
-                <div class="card__body" ng-show="!service.fullview">
-                  <p>{{service.brief}}</p>
-                </div>
-                <div class="card__body" ng-show="service.fullview">
+                <div class="card__body">
                   <p>{{service.description}}</p>
                 </div>
-                <footer class="card__footer" ng-show="service.fullview">
+                <footer class="card__footer">
                     <span><strong>Rs.</strong>  {{service.price}}</span>
                     <span><strong>Tasks:</strong> {{service.tasks}}</span>
                     <span><strong>Time:</strong> {{service.time}}</span>

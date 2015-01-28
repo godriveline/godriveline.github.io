@@ -26,8 +26,12 @@ angular.module('goDriveline', [])
   $scope.clicked = function(service){
     var ser = service;
     $rootScope.presentService = ser;
+    $rootScope.screenFixed = true;
   }
   $scope.expand = function(service) {
      service.fullview = !service.fullview;
   }
+  $rootScope.toggle = function () {
+    $rootScope.screenFixed = !$rootScope.screenFixed;
+  };
 }])

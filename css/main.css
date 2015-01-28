@@ -2,6 +2,83 @@ h1 small {
   color: #ddd;
 }
 
+.top-area.fixed{
+  position: fixed;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 10000;
+}
+
+.top-area.fixed .search-tabs-abs {
+  position: absolute;
+  top: 0;
+  left: 24%;
+  width: 55%;
+}
+
+button.close {
+position: fixed;
+z-index: 10000;
+right: 0;
+opacity: 1;
+background: black;
+color: #fff;
+text-shadow: transparent;
+font-size: 30px;
+padding: 20px;
+}
+
+.card.fixed{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10001;
+}
+
+
+@media (max-width: 60em) {
+  .search-tabs-bg > h1, h2 {
+    font-size: 2em;
+  }
+  button.close {
+    display:none;
+  }
+  h1{
+    display:block;
+  }
+  h1 small {
+    display:block;
+  }
+  .top-area.fixed{
+    position: relative;
+    width: 100%;
+    z-index: 10000;
+  }
+  .search-tabs-abs {
+    position: absolute;
+    width: 95%;
+    left: 10px;
+  }
+  .top-area.fixed .search-tabs-abs {
+    left: 11px;
+    width: 90%;
+  }
+  .bg-holder {
+    position: initial;
+    overflow: hidden;
+  }
+  .card.fixed{
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 10000;
+  }
+
+}
+
+
+
 .card {
   max-width: 25em;
   cursor:pointer;
