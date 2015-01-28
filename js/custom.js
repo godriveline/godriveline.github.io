@@ -180,36 +180,11 @@ $(document).ready(
     });
 
 
-        // Owl Carousel
-        var owlCarousel = $('#owl-carousel'),
-            owlItems = owlCarousel.attr('data-items'),
-            owlCarouselSlider = $('#owl-carousel-slider'),
-            owlNav = owlCarouselSlider.attr('data-nav');
-        // owlSliderPagination = owlCarouselSlider.attr('data-pagination');
-
-        owlCarousel.owlCarousel({
-            items: owlItems,
-            navigation: true,
-            navigationText: ['', '']
-        });
-
-        owlCarouselSlider.owlCarousel({
-            slideSpeed: 300,
-            paginationSpeed: 400,
-            // pagination: owlSliderPagination,
-            singleItem: true,
-            navigation: true,
-            navigationText: ['', ''],
-            transitionStyle: 'fade',
-            autoPlay: 4500
-        });
-
-
     // footer always on bottom
     var docHeight = $(window).height();
    var footerHeight = $('#main-footer').height();
    var footerTop = $('#main-footer').position().top + footerHeight;
-   
+
    if (footerTop < docHeight) {
     $('#main-footer').css('margin-top', (docHeight - footerTop) + 'px');
    }
@@ -219,24 +194,6 @@ $(document).ready(
 
 );
 
-
-$('.nav-drop').dropit();
-
-
-$("#price-slider").ionRangeSlider({
-    min: 130,
-    max: 575,
-    type: 'double',
-    prefix: "$",
-    // maxPostfix: "+",
-    prettify: false,
-    hasGrid: true
-});
-
-$('.i-check, .i-radio').iCheck({
-    checkboxClass: 'i-check',
-    radioClass: 'i-radio'
-});
 
 
 
@@ -294,12 +251,6 @@ $('.booking-item-container').children('.booking-item').click(function(event) {
 });
 
 
-$('.form-group-cc-number input').payment('formatCardNumber');
-$('.form-group-cc-date input').payment('formatCardExpiry');
-$('.form-group-cc-cvc input').payment('formatCardCVC');
-
-
-
 
 if ($('#map-canvas').length) {
     var map,
@@ -342,43 +293,6 @@ $('.card-select > li').click(function() {
         $(self).removeClass('card-item-selected');
     });
 });
-// Lighbox gallery
-$('#popup-gallery').each(function() {
-    $(this).magnificPopup({
-        delegate: 'a.popup-gallery-image',
-        type: 'image',
-        gallery: {
-            enabled: true
-        }
-    });
-});
-
-// Lighbox image
-$('.popup-image').magnificPopup({
-    type: 'image'
-});
-
-// Lighbox text
-$('.popup-text').magnificPopup({
-    removalDelay: 500,
-    closeBtnInside: true,
-    callbacks: {
-        beforeOpen: function() {
-            this.st.mainClass = this.st.el.attr('data-effect');
-        }
-    },
-    midClick: true
-});
-
-// Lightbox iframe
-$('.popup-iframe').magnificPopup({
-    dispableOn: 700,
-    type: 'iframe',
-    removalDelay: 160,
-    mainClass: 'mfp-fade',
-    preloader: false
-});
-
 
 $('.form-group-select-plus').each(function() {
     var self = $(this),
@@ -387,25 +301,6 @@ $('.form-group-select-plus').each(function() {
     btnGroup.children('label').last().click(function() {
         btnGroup.addClass('hidden');
         select.removeClass('hidden');
-    });
-});
-// Responsive videos
-$(document).ready(function() {
-    $("body").fitVids();
-});
-
-$(function($) {
-    $("#twitter").tweet({
-        username: "remtsoy", //!paste here your twitter username!
-        count: 3
-    });
-});
-
-$(function($) {
-    $("#twitter-ticker").tweet({
-        username: "remtsoy", //!paste here your twitter username!
-        page: 1,
-        count: 20
     });
 });
 
@@ -423,69 +318,7 @@ $(document).ready(function() {
     };
     ticker();
 });
-$(function() {
-    $('#ri-grid').gridrotator({
-        rows: 4,
-        columns: 8,
-        animType: 'random',
-        animSpeed: 1200,
-        interval: 1200,
-        step: 'random',
-        preventClick: false,
-        maxStep: 2,
-        w992: {
-            rows: 5,
-            columns: 4
-        },
-        w768: {
-            rows: 6,
-            columns: 3
-        },
-        w480: {
-            rows: 8,
-            columns: 3
-        },
-        w320: {
-            rows: 5,
-            columns: 4
-        },
-        w240: {
-            rows: 6,
-            columns: 4
-        }
-    });
 
-});
-
-
-$(function() {
-    $('#ri-grid-no-animation').gridrotator({
-        rows: 4,
-        columns: 8,
-        slideshow: false,
-        w1024: {
-            rows: 4,
-            columns: 6
-        },
-        w768: {
-            rows: 3,
-            columns: 3
-        },
-        w480: {
-            rows: 4,
-            columns: 4
-        },
-        w320: {
-            rows: 5,
-            columns: 4
-        },
-        w240: {
-            rows: 6,
-            columns: 4
-        }
-    });
-
-});
 
 var tid = setInterval(tagline_vertical_slide, 2500);
 

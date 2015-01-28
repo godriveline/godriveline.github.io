@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/main.css">
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.10/angular.min.js"></script>
+    <script src="http://andrekoenig.info/angular-deckgrid/scripts/angular-deckgrid.min.js"></script>
     <script src="/js/services.js"></script>
     <script src="js/modernizr.js"></script>
 
@@ -47,7 +48,7 @@
                                                 <div class="col-md-6">
                                                     <div class="form-group form-group-lg form-group-icon-left"><i class="fa fa-street-view input-icon"></i>
                                                         <label>What service do you need?</label>
-                                                        <input class="typeahead form-control" placeholder="Cleaning Service, Milk Service, Electricity Bill" type="text" />
+                                                        <input class="typeahead form-control" placeholder="Cleaning Service, Milk Service, Electricity Bill" ng-value="presentService.name"  type="text" />
                                                     </div>
                                                 </div>
                                                 <div class="col-md-6">
@@ -101,15 +102,22 @@
 
 
         <div class="wrapper" id="featured-services" ng-controller="ServiceController">
-              <div class="card" ng-repeat="service in featuredService">
+              <div class="card" ng-repeat="service in featuredService" ng-click="expand(service)">
                 <div class="card__media">
-                  <img src="{{service.image}}" alt="" class="card__media--image" />
+                  <img ng-src="{{service.image}}" alt="" class="card__media--image" />
                   <h3 class="card__headline">{{service.name}}</h3>
                 </div>
-                <div class="card__body">
+                <div class="card__body" ng-show="service.fullview">
+                  <p>{{service.brief}}</p>
+                </div>
+                <div class="card__body" ng-show="!service.fullview">
                   <p>{{service.description}}</p>
                 </div>
-                <footer class="card__footer">
+                <footer class="card__footer" ng-show="service.fullview">
+                    <span><strong>Rs.</strong>  {{service.price}}</span>
+                    <span><strong>Tasks:</strong> {{service.tasks}}</span>
+                    <span><strong>Time:</strong> {{service.time}}</span>
+                    <div class="cta-container transition" ng-click="clicked(service)" ><a href="#" class="cta">Request Service</a></div>
                 </footer>
               </div>
         </div>
