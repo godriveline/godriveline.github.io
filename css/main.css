@@ -2,6 +2,18 @@ h1 small {
   color: #ddd;
 }
 
+label.error {
+color: rgb(131, 17, 17);
+}
+
+.tab-content h2 {
+  color: #777;
+}
+
+.search-tabs-bg > h1 {
+  font-size: 2em;
+}
+
 .top-area.fixed{
   position: fixed;
   top: 0;
@@ -41,14 +53,11 @@ padding: 20px;
   .search-tabs-bg > h1, h2 {
     font-size: 2em;
   }
+  h1 small{
+    display:block;
+  }
   button.close {
     display:none;
-  }
-  h1{
-    display:block;
-  }
-  h1 small {
-    display:block;
   }
   .top-area.fixed{
     position: relative;

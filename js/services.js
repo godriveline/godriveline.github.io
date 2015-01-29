@@ -34,4 +34,4 @@ angular.module('goDriveline', [])
   $rootScope.toggle = function () {
     $rootScope.screenFixed = !$rootScope.screenFixed;
   };
-}])
+}]);

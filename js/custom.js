@@ -340,3 +340,22 @@ function tagline_vertical_slide() {
 function abortTimer() { // to be called when you want to stop the timer
     clearInterval(tid);
 }
+
+
+
+$('#main-form').validate({ // initialize the plugin
+        rules: {
+            phone: {
+                required: true,
+                minlength: 10
+            },
+            service: {
+                required: true,
+                minlength: 5
+            }
+        },
+        submitHandler: function (form) { // for demo
+            swal("Good job!", "Submitted the form successfully!", "success");
+            return false; // for demo
+        }
+});
