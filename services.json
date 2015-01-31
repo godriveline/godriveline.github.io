@@ -25,7 +25,7 @@
                   "name":"Home Cleaning Services",
                   "brief":"Complete Home Cleaning Services - Rooms, Kitchen, Washrooms & Toilets.",
                   "description":"GoDriveline provides Home Cleaning services. Cleaning entire House includes washrooms, bathrooms and kitchen. The pricing depends on the size of your house or office.\n\n Our Manager will manage the entire process so you don't have to worry anything just relax and the work is done you don't have todo anything all the work is perfect managed by our manager. ",
-                  "price":"100+/Hour",
+                  "price":"Starts from 60/Hour",
                   "tasks":"General Cleaning, Dish Wash, Floor Cleaning, Deep Cleaning",
                   "time":"10AM-8PM",
                   "image":"https://lh6.googleusercontent.com/-FUrwZo403nM/VMEP49yKAxI/AAAAAAAASkc/itEvCGbTgpU/w400-no/home.jpg"
@@ -309,7 +309,7 @@
                 {
                     "name":"Annual Maintenance Contract",
                     "brief":"Complete House Maintenance",
-                    "description":"Complete House Maintenance is Insured. Call your Go-Driveline Manager for your Home Visit",
+                    "description":"Complete Contract for Home Maintenance. Call your GoDriveline Manager for your Home Visit",
                     "price":"false",
                     "tasks":"Cleaning,",
                     "time":"10AM-8PM",
